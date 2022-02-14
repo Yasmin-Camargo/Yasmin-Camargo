@@ -4,6 +4,7 @@
 <p align="center">
 Atualmente sou estudante Bacharelado em Ciência da Computação na Universidade Federal de Pelotas
 </p>
+<img src="">
 <p align="center">
 <a href="https://github.com/Yasmin-Camargo" alt="GitHub" target="_blank">
 <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Yasmin-Camargo"/>
@@ -38,9 +39,11 @@ Atualmente sou estudante Bacharelado em Ciência da Computação na Universidade
  <br />
 
 ## ⚡Informações sobre minha conta GitHub
-[![Yasmin-Camargo stats](https://github-readme-stats.vercel.app/api?username=Yasmin-Camargo&theme=radical)](https://github.com/NOMEGIT/github-readme-stats)
+[![Yasmin-Camargo stats](https://github-readme-stats.vercel.app/api?username=Yasmin-Camargo&theme=radical&show_icons=true)](https://github.com/Yasmin-Camargo/github-readme-stats)
 
-[![Yasmin-Camargo Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmin-Camargo&theme=radical)](https://github.com/NOMEGIT/github-readme-stats)
+[![Yasmin-Camargo Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmin-Camargo&theme=radical&layout=compact)](https://github.com/Yasmin-Camargo/github-readme-stats)
+
+
 
  <br />
 

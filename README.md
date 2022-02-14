@@ -20,7 +20,9 @@ Atualmente sou estudante Bacharelado em Ciência da Computação na Universidade
 </a>
 </p>
 
- <br />
+<p align="center"><img src="https://user-images.githubusercontent.com/88253809/153947091-0fa3ed06-7ae4-4e8a-a77f-6816dc394bc2.png" width="150" height="150" /></p>
+
+<br />
 
 ## 🚀💻Minhas Habilidades
 [<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)

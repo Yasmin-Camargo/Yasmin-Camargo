@@ -4,7 +4,7 @@
 <p align="center">
 Atualmente sou estudante Bacharelado em Ciência da Computação na Universidade Federal de Pelotas
 </p>
-<img src="">
+
 <p align="center">
 <a href="https://github.com/Yasmin-Camargo" alt="GitHub" target="_blank">
 <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Yasmin-Camargo"/>
@@ -49,6 +49,6 @@ Atualmente sou estudante Bacharelado em Ciência da Computação na Universidade
 
  <br />
 
-- Obrigada pela visita
+<p style="color:pink">- Obrigada pela visita </p>
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/dino.gif" />
